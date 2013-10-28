@@ -19,6 +19,5 @@ z.B.:
 - Felder direkt in die Medienpoolfelder eintragen
 - weitere Felder IPTC
 - weitere Felder Exif
--
 
 
