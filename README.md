@@ -10,7 +10,7 @@ Getestet mit Redaxo 4.5
 Anmerkungen
 ===
 
-Es war in diesem gefordert, die Inhalte im Medienpool darszustellen. Nicht diese Inhalte automatisch einzutragen.
+Es war in diesem Auftrag gefordert die Inhalte im Medienpool darszustellen. Nicht diese Inhalte automatisch einzutragen.
 
 Bitte als Issue eintragen was noch sinnvoll wäre.
 
